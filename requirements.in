@@ -5,4 +5,4 @@ https://control.divio.com/api/v1/apps/serve/aldryn-sso/1.7.0/3ef75ae5-729a-4c44-
 # </INSTALLED_ADDONS>
 django-extensions
 ipython
-
+jupyter
